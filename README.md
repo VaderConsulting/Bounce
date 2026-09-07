@@ -1,6 +1,6 @@
 # Bounce
 
-VB6 working copy of `Bounce` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Bouncevbp. Output: `Bounce.exe`. Updates SQL Database with Server downtimes. `VersionCompanyName`: CSC.
+VB6 Server Bounce Log (`Bounce.exe`) that records planned/unplanned server downtime (down/up times) into a SQL Server database via ADO data controls, with history and autocomplete helpers. Open `Bounce.vbp` in the VB6 IDE.
 
 **Source last updated:** 2000-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `Bounce` (`Bounce.vbp`) | VB6 | WinForms exe | Updates SQL Database with Server downtimes |
+| `Bounce` (`Bounce.vbp`) | VB6 | WinForms exe | Log planned/unplanned server downtime to SQL |
 
 ## How to open
 
